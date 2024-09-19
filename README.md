@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
