@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
+| [1138-grumpy-bookstore-owner](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2329-maximum-product-after-k-increments](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2411-spiral-matrix-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1138-grumpy-bookstore-owner](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 ## Binary Search
 |  |
 | ------- |
