@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0948-sort-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0948-sort-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0948-sort-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
