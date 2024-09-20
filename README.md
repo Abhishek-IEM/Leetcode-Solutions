@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
