@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0386-lexicographical-numbers](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
