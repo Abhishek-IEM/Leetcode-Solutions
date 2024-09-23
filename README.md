@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0948-sort-an-array) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Backtracking
 |  |
