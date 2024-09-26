@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0801-is-graph-bipartite](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Quickselect
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## String Matching
 |  |
 | ------- |
