@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Indexed Tree
