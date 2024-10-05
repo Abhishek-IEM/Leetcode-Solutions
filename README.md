@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [1013-fibonacci-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [1013-fibonacci-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
