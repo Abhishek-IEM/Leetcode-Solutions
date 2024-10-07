@@ -10,8 +10,6 @@ public:
                 st.push(s[i]);  
             }
         }
-        
-        // The size of the stack will be the minimized length
         return st.size();
         }
 };
