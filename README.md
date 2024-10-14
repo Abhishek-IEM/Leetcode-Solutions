@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2329-maximum-product-after-k-increments](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2411-spiral-matrix-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2329-maximum-product-after-k-increments](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2329-maximum-product-after-k-increments) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Stack
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2329-maximum-product-after-k-increments](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2329-maximum-product-after-k-increments) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Matrix
 |  |
 | ------- |
