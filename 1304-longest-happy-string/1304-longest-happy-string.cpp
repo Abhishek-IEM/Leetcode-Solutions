@@ -14,13 +14,13 @@ public:
         while(!pq.empty())
         {
             int currCount = pq.top().first;
-            int currChar = pq.top().second;
+            char currChar = pq.top().second;
             pq.pop();
             if(result.length() >= 2 && result.back() == currChar && result[result.length() - 2] == currChar){
                 //we can't use currChar 
                 if(pq.empty()) break;
                 int nextCount = pq.top().first;
-                int nextChar = pq.top().second;
+                char nextChar = pq.top().second;
                 pq.pop();
                 result.push_back(nextChar);
                 nextCount--;
