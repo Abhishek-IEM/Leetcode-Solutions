@@ -7,8 +7,12 @@ public:
             ans.push_back(temp);
             return;
         }
+        unordered_set<int> seen;
         for(int i = 0; i < visited.size(); i++)
         {
+            if(visited[i] || seen.find(nums[i]) != seen.end()) continue;
+            seen.insert(nums[i]);
+
             if(visited[i] == 0)
             {
                 visited[i] = 1;
