@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0046-permutations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0078-subsets) |
