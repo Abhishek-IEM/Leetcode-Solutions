@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [2411-spiral-matrix-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
