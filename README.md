@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2329-maximum-product-after-k-increments](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2411-spiral-matrix-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
