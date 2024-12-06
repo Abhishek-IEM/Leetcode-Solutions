@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2329-maximum-product-after-k-increments](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
