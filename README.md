@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Linked List
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Merge Sort
