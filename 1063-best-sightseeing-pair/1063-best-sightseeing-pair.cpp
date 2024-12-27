@@ -3,16 +3,17 @@ public:
     int maxScoreSightseeingPair(vector<int>& values) {
         int n = values.size();
 
-        int max_till_now = values[0];
+        priority_queue<int> pq;
+        pq.push(values[0]);
 
         int result = 0;
 
         for(int j = 1; j < n; j++)
         {
             int x = values[j] - j;
-            int y = max_till_now;
+            int y = pq.top();
             result = max(result, x + y);
-            max_till_now = max(max_till_now, values[j] + j);
+            pq.push(values[j] + j);
         }
         return result;
     }
