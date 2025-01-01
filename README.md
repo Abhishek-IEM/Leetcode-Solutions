@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
