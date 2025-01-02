@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Indexed Tree
 |  |
 | ------- |
