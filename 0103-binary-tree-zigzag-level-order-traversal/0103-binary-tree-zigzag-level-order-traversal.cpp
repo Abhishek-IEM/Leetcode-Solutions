@@ -10,7 +10,6 @@ public:
         {
             int n = q.size();
             vector<int> v;
-            level++;
             while(n--)
             {
                 TreeNode* temp = q.front();
@@ -19,10 +18,9 @@ public:
                 if(temp->left) q.push(temp->left);
                 if(temp->right) q.push(temp->right);
             }
-            if (level % 2 == 0) {
-            reverse(v.begin(), v.end());
-        }
+            if (level % 2 != 0) reverse(v.begin(), v.end());
             ans.push_back(v);
+            level++;
         }
         return ans;
     }
