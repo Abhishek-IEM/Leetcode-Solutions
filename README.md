@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0275-h-index-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
