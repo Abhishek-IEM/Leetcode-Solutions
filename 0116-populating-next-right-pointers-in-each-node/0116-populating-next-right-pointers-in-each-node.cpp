@@ -29,12 +29,12 @@ public:
             Node* prev = NULL;
             while(n--)
             {
-                Node* temp = q.front();
+                Node* curr = q.front();
                 q.pop();
-                if (prev) prev->next = temp; // Connect the previous node to the current node.
-                prev = temp;
-                if(temp->left) q.push(temp->left);
-                if(temp->right) q.push(temp->right);    
+                if (prev) prev->next = curr; 
+                prev = curr;
+                if(curr->left) q.push(curr->left);
+                if(curr->right) q.push(curr->right);    
             }
             prev->next = NULL;
         }
