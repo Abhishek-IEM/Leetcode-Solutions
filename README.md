@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [2662-check-knight-tour-configuration](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
+| [1558-course-schedule-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 ## Design
 |  |
 | ------- |
