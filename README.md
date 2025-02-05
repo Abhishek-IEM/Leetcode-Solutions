@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0068-text-justification](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0443-string-compression) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
