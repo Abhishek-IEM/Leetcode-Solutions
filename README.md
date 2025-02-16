@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0148-sort-list) |
