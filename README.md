@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2580-circular-sentence](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2329-maximum-product-after-k-increments](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2329-maximum-product-after-k-increments) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3447-clear-digits) |
 ## Tree
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Breadth-First Search
 |  |
