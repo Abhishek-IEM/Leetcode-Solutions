@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
