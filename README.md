@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2662-check-knight-tour-configuration](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2662-check-knight-tour-configuration) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -621,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1558-course-schedule-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3189-find-champion-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
