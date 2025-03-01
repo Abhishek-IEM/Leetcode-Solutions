@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0394-decode-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
