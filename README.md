@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0472-concatenated-words](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0472-concatenated-words](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0567-permutation-in-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0812-rotate-string) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0472-concatenated-words](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0472-concatenated-words](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0684-redundant-connection) |
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0472-concatenated-words](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Union Find
 |  |
