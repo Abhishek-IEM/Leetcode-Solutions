@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2580-circular-sentence](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1138-grumpy-bookstore-owner](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
