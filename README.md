@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
