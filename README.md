@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3430-count-days-without-meetings](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
 | ------- |
