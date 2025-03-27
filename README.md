@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
