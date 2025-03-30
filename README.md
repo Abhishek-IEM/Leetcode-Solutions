@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2487-optimal-partition-of-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2487-optimal-partition-of-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2329-maximum-product-after-k-increments](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2487-optimal-partition-of-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
