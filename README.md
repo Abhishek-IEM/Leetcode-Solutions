@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1558-course-schedule-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -905,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Design
@@ -989,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
