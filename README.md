@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0275-h-index-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0275-h-index-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0792-binary-search](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0792-binary-search) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0744-network-delay-time) |
@@ -736,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
