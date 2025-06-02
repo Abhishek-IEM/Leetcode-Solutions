@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0768-partition-labels) |
