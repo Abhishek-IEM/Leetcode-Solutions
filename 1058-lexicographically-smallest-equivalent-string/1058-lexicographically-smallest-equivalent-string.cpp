@@ -9,15 +9,12 @@ public:
 
         visited[ch - 'a'] = 1;
 
-        vector<char> component;
-
         while(!q.empty())
         {
             char c = q.front();
             q.pop();
 
             minChar = min(minChar, c);
-            component.push_back(c);
 
             for(char &v : adj[c])
             {
