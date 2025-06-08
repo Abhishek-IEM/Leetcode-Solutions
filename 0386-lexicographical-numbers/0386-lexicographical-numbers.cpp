@@ -1,32 +1,27 @@
 class Solution {
 public:
-    vector<int> result;
-    void f(int i, int n)
+    void solve(int curr, int n, vector<int> &ans)
     {
-        if(i>n) return;
-        if(i<=n and i!=0)
+        if(curr > n) return;
+
+        ans.push_back(curr);
+
+        for(int i = 0; i <= 9; i++)
         {
-            result.push_back(i);
-        }
-        // if(i!=0)
-        // {
-        //     for(int j=0;j<=9;j++){
-        //         f(10*i+j,n);
-        //     }
-        // }
-        // else{
-        //     for(int j=1;j<=9;j++){
-        //         f(10*i+j,n);
-        //     }
-        // }
-        for(int j=(i==0) ? 1 : 0; j<=9;j++)
-        {
-            f(10*i+j,n);
+            int newNum = curr * 10 + i;
+            if(newNum > n) return;
+            solve(newNum, n, ans);
         }
     }
+    
     vector<int> lexicalOrder(int n) {
-        result.clear();
-        f(0,n);
-        return result;
+        vector<int> ans;
+
+        for(int i = 1; i <= 9; i++)
+        {
+            solve(i, n, ans);
+        }
+
+        return ans;
     }
 };
