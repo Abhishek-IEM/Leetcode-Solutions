@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -1097,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
