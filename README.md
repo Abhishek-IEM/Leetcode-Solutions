@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
