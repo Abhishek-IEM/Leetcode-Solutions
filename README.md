@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2048-build-array-from-permutation](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1100,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Union Find
 |  |
@@ -1195,4 +1199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
