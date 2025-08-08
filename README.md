@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0952-word-subsets) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1002-maximum-width-ramp](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1032-satisfiability-of-equality-equations) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Sorting
 |  |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -1206,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1252,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Hash Function
