@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
