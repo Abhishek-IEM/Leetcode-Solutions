@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0679-24-game](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0679-24-game](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
