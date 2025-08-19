@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1380-number-of-closed-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1380-number-of-closed-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
+| [1380-number-of-closed-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
@@ -1039,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1380-number-of-closed-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1191,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0869-similar-string-groups) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1380-number-of-closed-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
