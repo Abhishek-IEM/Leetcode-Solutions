@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [0978-valid-mountain-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0978-valid-mountain-array) |
 | [1002-maximum-width-ramp](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1032-satisfiability-of-equality-equations) |
