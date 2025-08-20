@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1380-number-of-closed-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1380-number-of-closed-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
