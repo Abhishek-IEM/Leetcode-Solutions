@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -929,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1380-number-of-closed-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1380-number-of-closed-islands) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0068-text-justification) |
+| [0498-diagonal-traverse](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
