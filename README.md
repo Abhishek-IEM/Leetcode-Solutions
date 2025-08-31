@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0221-maximal-square) |
@@ -1033,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Abhishek-IEM/Leetcode-Solutions/tree/master/0051-n-queens) |
