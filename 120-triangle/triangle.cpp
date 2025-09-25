@@ -1,17 +1,17 @@
 class Solution {
 public:
-    int solve(vector<vector<int>>& triangle, int row, int col, int n, vector<vector<int>> &dp) {
-        if(row == n - 1) return triangle[row][col];
-
-        if(dp[row][col] != INT_MAX) return dp[row][col];
-
-        int sum = triangle[row][col] + min(solve(triangle, row + 1, col, n, dp), solve(triangle, row + 1, col + 1, n, dp));
-
-        return dp[row][col] = sum;
-    }
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
-        vector<vector<int>> dp(201, vector<int> (201, INT_MAX));
-        return solve(triangle, 0, 0, n, dp);
+        vector<vector<int>> t = triangle;
+
+        for(int row = n - 2; row >= 0; row--)
+        {
+            for(int col = 0; col <= row; col++)
+            {
+                t[row][col] = t[row][col] + min(t[row + 1][col], t[row + 1][col + 1]);
+            }
+        }
+
+        return t[0][0];
     }
 };
